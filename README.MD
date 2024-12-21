@@ -20,8 +20,6 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
@@ -29,64 +27,36 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Microsoft Copilot] 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título interessante e atrativo para ebook, que o tema seja sono do bebê até um ano de idade                                                        |
+| conteúdo | agora faça um texto para ebook, com foco na rotina para melhor sono do bebê. não esquecer de incluir a explicação sobre janelas de sono e importância das sonecas.
+REGRAS
+> explique de uma maneira simples
+> deixe o texto enxuto
+> sempre deixe um texto sugestivo para o tópico
+incluir dentro da 'introdução' um resumo sobre a fisiologia do sono, falando sobre a melatonina e o cortisol e sua função no início e manutenção do sono; Também falar sobre o ciclo circadiano. incluir também na introdução que a importância do bom sono também é para a família e cuidadores, visto que a privação de sono causa efeitos |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| capa   | Levando em consideração o título escolhido: "Rotina de Ouro: O Segredo para o Sono do Bebê", crie uma imagem de um bebê dormindo tranquilamente em seu berço. utilizar cores suaves e relaxantes, fundo azul. Mude o fundo para um tom pastel, tire a coberta e travesseiro do bebê |
+| imagens ebook| crie uma imagem Uma família feliz com pai, mãe e um bebê, em tons pastéis e utilizando rosa e verde. crie uma representação gráfica do ciclo circadiano, utilizando tons pastéis de rosa e verde; criar Uma imagem realista em tons pastéis de verde e rosa com a representação de alguns sinais de sono do bebê, como por exemplo um bebê bocejando;
+Uma imagem realista em tons pastéis de verde e rosa com a representação de um pai contando uma história para um bebê de pijama, em um ambiente aconchegante e de noite |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Copilot
+- Imagens geradas via Copilat
 
-## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
